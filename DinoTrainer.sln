@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoTrainer", "DinoTrainer\DinoTrainer.csproj", "{0FC496DE-224F-446A-A747-CF9789D76D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC496DE-224F-446A-A747-CF9789D76D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC496DE-224F-446A-A747-CF9789D76D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC496DE-224F-446A-A747-CF9789D76D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC496DE-224F-446A-A747-CF9789D76D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984EC175-DE83-47E0-8A17-2A998FD44C99}
+	EndGlobalSection
+EndGlobal
